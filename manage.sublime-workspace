@@ -1,0 +1,808 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vl",
+				"validate_email"
+			],
+			[
+				"vali",
+				"validator"
+			],
+			[
+				"ca",
+				"camel"
+			],
+			[
+				"c",
+				"camelcase"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"SEC",
+				"SECRET_KEY"
+			],
+			[
+				"num",
+				"num_pages"
+			],
+			[
+				"pag",
+				"page-item"
+			],
+			[
+				"page",
+				"page-link"
+			],
+			[
+				"page-",
+				"page-item"
+			],
+			[
+				"topic",
+				"topic_post_url"
+			],
+			[
+				"topic_po",
+				"topic_post_url"
+			],
+			[
+				"topi",
+				"topic_pk"
+			],
+			[
+				"top",
+				"topic"
+			],
+			[
+				"cre",
+				"created_at"
+			],
+			[
+				"r",
+				"range"
+			],
+			[
+				"get",
+				"get_page_count"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"m",
+				"markdown"
+			],
+			[
+				"bo",
+				"board_topics"
+			],
+			[
+				"boar",
+				"board__pk"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"boa",
+				"board"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"T",
+				"Topic"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"get_",
+				"get_context_data"
+			],
+			[
+				"Topi",
+				"TopicListView"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"li",
+				"ListView"
+			],
+			[
+				"P",
+				"Post"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"M",
+				"Meta"
+			],
+			[
+				"acc",
+				"accounts"
+			],
+			[
+				"Us",
+				"UserInformationUpdateForm"
+			],
+			[
+				"se",
+				"session_key"
+			],
+			[
+				"ses",
+				"session"
+			],
+			[
+				"sessi",
+				"session_key"
+			],
+			[
+				"Po",
+				"Post"
+			],
+			[
+				"Top",
+				"TopicListView"
+			],
+			[
+				"page_",
+				"page_obj"
+			],
+			[
+				"qu",
+				"queryset"
+			],
+			[
+				"Bo",
+				"Board"
+			],
+			[
+				"g",
+				"generic"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"method",
+				"method_decorator"
+			],
+			[
+				"fr",
+				"form"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"Tru",
+				"Truncator"
+			],
+			[
+				"p",
+				"Post"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"b",
+				"Board"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"bre",
+				"breadcrumb-item"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"co",
+				"commit"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"te",
+				"TestCase"
+			],
+			[
+				"logi",
+				"login_url"
+			],
+			[
+				"form",
+				"format"
+			],
+			[
+				"lo",
+				"login_url"
+			],
+			[
+				"n",
+				"novalidate\tAttr"
+			],
+			[
+				"pass",
+				"password_change"
+			],
+			[
+				"Pa",
+				"PasswordResetConfirmView"
+			],
+			[
+				"ass",
+				"assertEquals"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"cs",
+				"csrfmiddlewaretoken"
+			],
+			[
+				"test",
+				"test_csrf"
+			],
+			[
+				"ui",
+				"uidb64"
+			],
+			[
+				"card",
+				"card-title"
+			],
+			[
+				"vi",
+				"view_class"
+			],
+			[
+				"s",
+				"status_code"
+			],
+			[
+				"asse",
+				"assertEqual"
+			],
+			[
+				"jo",
+				"johnj"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"0-9A",
+				"0-9A-Za-z"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"text",
+				"text-muted"
+			],
+			[
+				"drop",
+				"dropdown-item"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"auth",
+				"auth_views"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"Si",
+				"SignUpForm"
+			],
+			[
+				"asser",
+				"assertTrue"
+			],
+			[
+				"home",
+				"home_url"
+			],
+			[
+				"aut",
+				"auth_login"
+			],
+			[
+				"a",
+				"auth"
+			],
+			[
+				"nav",
+				"navbar-toggler"
+			],
+			[
+				"Use",
+				"UserCreationForm"
+			],
+			[
+				"SignUp",
+				"signupUpForm"
+			],
+			[
+				"au",
+				"auth_login"
+			],
+			[
+				"B",
+				"BoardsConfig"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"Form",
+				"FormHelper"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"ne",
+				"new_topic"
+			],
+			[
+				"new",
+				"new_topic"
+			],
+			[
+				"new_top",
+				"new_topic_url"
+			],
+			[
+				"hom",
+				"homepage_url"
+			],
+			[
+				"t",
+				"topics"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"_",
+				"__str__"
+			],
+			[
+				"id",
+				"id_message"
+			],
+			[
+				"br",
+				"breadcrumb-item"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"board",
+				"board_topics_url"
+			],
+			[
+				"v",
+				"view"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"u",
+				"updated_at"
+			],
+			[
+				"d",
+				"DateTimeField"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"html_",
+				"html_var"
+			],
+			[
+				"vew",
+				"views"
+			],
+			[
+				"html",
+				"html_"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Convert Case: Title Case"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/function.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/dictionaries.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/tuple_set.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/list.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/variables.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/conditionals.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/loops.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/modules.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/class.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/file.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/py_json.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/validator.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Python_Coding_Training_Software Development/file",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/new_topic.html",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/topics.html",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/base.html",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/topic_posts.html",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/reply_topic.html",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/models.py",
+		"/E/PROJECTS/FRONT_END-BACK_END_WEB-DEV/Get_Back/templates/marketing/home.html",
+		"/D/Users/ALIVE/Development/mydjango_project/myproject/urls.py",
+		"/D/Users/ALIVE/Development/mydjango_project/myproject/settings.py",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/includes/pagination.html",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/tests/test_view_reply_topic.py",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/views.py",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/tests/test_view_topic_posts.py",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/edit_post.html",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/templatetags/gravatar.py",
+		"/D/Users/ALIVE/Development/mydjango_project/accounts/models.py",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/home.html",
+		"/D/Users/ALIVE/Development/mydjango_project/accounts/forms.py",
+		"/D/Users/ALIVE/Development/mydjango_project/accounts/views.py",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/my_account.html",
+		"/D/Users/ALIVE/Development/mydjango_project/venv/Lib/site-packages/django/contrib/auth/models.py",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/tests/test_view_edit_post.py",
+		"/D/Users/ALIVE/Downloads/app7-webscraping/app7_webscraping.py",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/tests/test_view_home.py",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/tests/test_view_board_topics.py",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/tests/test_view_reply_topic",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/forms.py",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/includes/form.html",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/tests/test_view_new_topic.py",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/login.html",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/password_reset_complete.html",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/password_change.html",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/password_change_done.html",
+		"/D/Users/ALIVE/Development/mydjango_project/accounts/tests/test_view_password_change.py",
+		"/D/Users/ALIVE/Development/mydjango_project/accounts/tests/test_view_password_reset.py",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/password_reset_confirm.html",
+		"/D/Users/ALIVE/Development/mydjango_project/accounts/tests/test_mail_password_reset.py",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/password_reset_done.html",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/password_reset.html",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/password_reset_email.html",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/password_reset_subject.txt",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/tests/test_views.py",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/tests/test_templatetags.py",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/tests/__init__.py",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/base_accounts.html",
+		"/D/Users/ALIVE/Development/mydjango_project/templates/signup.html",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/templatetags/__init__.py",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/templatetags/form_tags.py",
+		"/D/Users/ALIVE/Development/mydjango_project/static/css/accounts.css",
+		"/D/Users/ALIVE/Development/mydjango_project/static/js/propper.min.js",
+		"/D/Users/ALIVE/Development/mydjango_project/static/js/jquery-3.2.1.min.js",
+		"/D/Users/ALIVE/Development/mydjango_project/accounts/tests/test_view_signup.py.py",
+		"/D/Users/ALIVE/Development/mydjango_project/accounts/tests.py",
+		"/D/Users/ALIVE/Development/mydjango_project/accounts/tests/__init__.py",
+		"/D/Users/ALIVE/Development/mydjango_project/requirements.txt",
+		"/D/Users/ALIVE/Development/mydjango_project/boards/tests.py",
+		"/D/Users/ALIVE/Development/myproject/myproject/boards/forms.py",
+		"/D/Users/ALIVE/Development/myproject/myproject/boards/models.py",
+		"/D/Users/ALIVE/Development/myproject/myproject/boards/tests.py",
+		"/D/Users/ALIVE/Development/myproject/myproject/boards/views.py",
+		"/D/Users/ALIVE/Development/myproject/myproject/boards/__init__.py",
+		"/D/Users/ALIVE/Development/myproject/myproject/templates/new_topic.html",
+		"/D/Users/ALIVE/Development/myproject/myproject/templates/topics.html",
+		"/D/Users/ALIVE/Development/myproject/myproject/myproject/urls.py",
+		"/D/Users/ALIVE/Development/myproject/myproject/templates/home.html",
+		"/D/Users/ALIVE/Development/myproject/myproject/boards/migrations/0002_auto_20180615_0124.py",
+		"/D/Users/ALIVE/Development/myproject/myproject/boards/migrations/0001_initial.py",
+		"/D/Users/ALIVE/Development/myproject/myproject/static/css/app.css",
+		"/D/Users/ALIVE/Development/myproject/myproject/myproject/settings.py",
+		"/D/Users/ALIVE/Development/myproject/myproject/templates/base.html",
+		"/D/Users/ALIVE/Downloads/bootstrap-4.1.1 (1)/bootstrap-4.1.1/_layouts/home.html",
+		"/D/Users/ALIVE/Development/myproject/myproject/boards/admin.py",
+		"/D/Users/ALIVE/Development/myproject/myproject/static/css/bootstrap.css",
+		"/D/Users/ALIVE/Development/myproject/myproject/static/css/bootstrap.min.css",
+		"/E/LOGICIELS/DEVELOPPEMENT/bootstrap-4.0.0-dist/css/bootstrap.min.css.map",
+		"/D/Users/ALIVE/locallibrary/locallibrary/catalog/urls.py",
+		"/D/Users/ALIVE/locallibrary/locallibrary/locallibrary/urls.py",
+		"/D/Users/ALIVE/locallibrary/PythonDev/Lib/site-packages/django/views/generic/base.py",
+		"/D/Users/ALIVE/locallibrary/PythonDev/Lib/genericpath.py",
+		"/D/Users/ALIVE/locallibrary/locallibrary/locallibrary/settings.py",
+		"/D/Users/ALIVE/Dev/cfehome/src/restaurants/views.py",
+		"/D/Users/ALIVE/Dev/cfehome/src/templates/base.html",
+		"/D/Users/ALIVE/Dev/cfehome/src/muypicky/urls.py",
+		"/D/Users/ALIVE/Dev/cfehome/src/muypicky/settings/base.py",
+		"/D/Users/ALIVE/Dev/cfehome/src/muypicky/settings/local.py",
+		"/D/Users/ALIVE/Dev/cfehome/src/muypicky/settings/production.py",
+		"/D/Users/ALIVE/Dev/cfehome/src/muypicky/settings/__init__.py",
+		"/D/Users/ALIVE/Dev/cfehome/src/manage.py",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Front-End_Web-Dev/html5.html",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Front-End_Web-Dev/html5",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Front-End_Web-Dev/hello.html",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Front-End_Web-Dev/hello",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/server.js",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/client/system.config.js",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/client/app/app.component.ts",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/client/app/app.module.ts",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/client/typings.json",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/client/tsconfig.json",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/client/package.json",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/routes/tasks.js",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/routes/index.js",
+		"/D/Users/ALIVE/Downloads/WebEssentials2013-2.6.12/WebEssentials2013-2.6.12/README.md",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/client/tsconfig",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/views/index.html",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/package.json",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/node_modules/server.js",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/node_modules/routes/index.js",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/node_modules/routes/tasks.js",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/app/js/chirpApp.js",
+		"/E/PROJECTS DEV/MICROSOFT VIRTUAL ACADEMY/LEARNING_APPLIED/MEAN_STACK_DEV/Modules/module2/app/main.html",
+		"/E/PROJECTS DEV/CORE PROJECT/Angular4/my-proj/src/app/app.module.ts",
+		"/E/PROJECTS DEV/CORE PROJECT/CODEACADEMY LEARNING/JAVASCRIPT/Udemy Leraning/JS-Basics/script.js",
+		"/E/PROJECTS DEV/CORE PROJECT/CODEACADEMY LEARNING/JAVASCRIPT/Variables/js2.js",
+		"/E/PROJECTS DEV/CORE PROJECT/Angular4/my-proj/src/app/hero-detail.component.ts",
+		"/E/PROJECTS DEV/CORE PROJECT/Angular4/my-proj/src/app/app.component.ts"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
