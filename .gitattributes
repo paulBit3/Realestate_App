@@ -1,3 +1,7 @@
 * linguist-vendored
 *.css linguist-vendored=true
+*.js linguist-vendored=false
+
+
+
 
