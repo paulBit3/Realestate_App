@@ -1,4 +1,4 @@
-BT Real A Real Estate Application built with Django, a Python Framework
+This is a Real Estate Application built in  Django(Python) that Manage listings, realtors, contact inquiries and website users via admin
 
 ![admin login screen](https://user-images.githubusercontent.com/43505777/48961524-e261c500-ef3a-11e8-852b-6fcdda938853.PNG)
 ![indexpage screen](https://user-images.githubusercontent.com/43505777/48961525-e261c500-ef3a-11e8-806a-9356ce4783e0.PNG)
