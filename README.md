@@ -1,6 +1,8 @@
-# btreal_estate_project
-
 BT Real A Real Estate Application built with Django, a Python Framework
+
+![admin login screen](https://user-images.githubusercontent.com/43505777/48961524-e261c500-ef3a-11e8-852b-6fcdda938853.PNG)
+![indexpage screen](https://user-images.githubusercontent.com/43505777/48961525-e261c500-ef3a-11e8-806a-9356ce4783e0.PNG)
+
 
 The app manages multiple tasks and make it easier for real state agent to track who is interested on their propeties!
 
