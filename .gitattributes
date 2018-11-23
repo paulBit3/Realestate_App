@@ -1,7 +1,5 @@
-* linguist-vendored
-*.css linguist-vendored=true
-*.js linguist-vendored=false
-*.accounts linguist-vendored=false
+static/* linguist-vendored=true
+
 
 
 
