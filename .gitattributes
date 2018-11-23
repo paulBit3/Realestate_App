@@ -1,5 +1,5 @@
 btre/static/* linguist-vendored
-
+*.html linguist-vendored=true
 
 # I can also do this below
 #* linguist-vendored
