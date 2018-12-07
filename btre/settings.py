@@ -157,3 +157,8 @@ EMAIL_USE_TLS = True
 
 #If a secure connection is required or not
 #EMAIL_USE_TLS
+
+try:
+    from .local_settings import *
+except ImportError:
+    pass
