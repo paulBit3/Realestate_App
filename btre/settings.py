@@ -149,11 +149,11 @@ except ImportError:
     pass
 
 #Email Config
-EMAIL_HOST = 'smtp.live.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'paulbrou1@outlook.com'
-EMAIL_HOST_PASSWORD = 'Pabloescoba@2020'
-EMAIL_USE_TLS = True
+#EMAIL_HOST = 'smtp.live.com'
+#EMAIL_PORT = 587
+#EMAIL_HOST_USER = 'paulbrou1@outlook.com'
+#EMAIL_HOST_PASSWORD = 'Pabloescoba@2020'
+#EMAIL_USE_TLS = True
 
 #If a secure connection is required or not
 #EMAIL_USE_TLS
